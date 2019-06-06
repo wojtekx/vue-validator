@@ -1,4 +1,6 @@
-# form
+# Vue valitador app
+
+## You can see online version here : https://wojtekx.github.io/vue-validator/
 
 ## Project setup
 ```
